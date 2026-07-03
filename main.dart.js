@@ -60780,7 +60780,7 @@ qb(a,b){var s=null,r=A.pR(30),q=A.ba(B.c.aq(127.5),B.bX.H()>>>16&255,B.bX.H()>>>
 return A.abp(!1,r,!0,A.Nl(A.akk(a,B.bp,s,22),s,new A.fc(q,s,p,s,o,s,B.dw),s,B.yS,B.yN,s),s,!0,s,s,s,s,s,s,b,s,s,s)},
 pv(a,b){return new A.je(B.yM,A.a7h(A.d([A.acY(a,B.JK,B.O),B.Hp,A.acY(b,B.Kc,B.O)],t.nA),B.bq,B.ei),null)}}
 A.WX.prototype={
-$0(){return this.a.jC("https://instagram.com/saifbahaa1")},
+$0(){return this.a.jC("https://instagram.com/saif.bahaa")},
 $S:0}
 A.WY.prototype={
 $0(){return this.a.jC("https://t.me/saifbahaa1")},
